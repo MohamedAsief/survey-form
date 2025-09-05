@@ -3,12 +3,6 @@
 This is my **Survey Form Project**, built as part of the freeCodeCamp Responsive Web Design Certification.  
 It is one of my first milestone projects in web development. 🚀
 
-## 🔗 Live Demo
-Check it out here 👉 [Live Project](https://mohamedasief.github.io/survey-form/)
-
-## 📸 Screenshot
-![Survey Form Screenshot](screenshot.png)
-
 ## 🛠️ Built With
 - HTML5  
 - CSS3 (with gradient background and 3D text effects)  
